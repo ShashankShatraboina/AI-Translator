@@ -31,14 +31,9 @@ The application processes user input text, detects the source language, and tran
 ```bash
 git clone https://github.com/your-username/ai-translator.git
 cd ai-translator
-pip install -r requirements.txt
 ````
 
-## Run the Project
 
-```bash
-python app.py
-```
 ## Demo 
 
 1. https://shashankshatraboina.github.io/AI-Translator/

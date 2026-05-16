@@ -51,7 +51,5 @@ python app.py
 * Offline translation mode
 * Enhanced multilingual support
 
-## License
 
-This project is open-source and available under the MIT License.
 

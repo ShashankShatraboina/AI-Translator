@@ -29,8 +29,8 @@ The application processes user input text, detects the source language, and tran
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ai-translator.git
-cd ai-translator
+git clone https://github.com/ShashankShatraboina/AI-Translator.git
+cd AI-Translator
 ````
 
 
